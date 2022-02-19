@@ -11,7 +11,7 @@ I did this project first, to discover java and eclipse IDE and second, because I
 * Just download the SnakeGame.jar file
 * Run it 
 * Start playing with the arrows keys.
-* If the snake's head collides with his own body or the borders you lose. 
+* If the snake's head collides with his own body or with one of the 4 borders you lose. 
 * Then, just close it and re-open it (I will add a restart button possibly).
 
 #### References:
