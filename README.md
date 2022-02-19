@@ -12,7 +12,7 @@ I did this project first, to discover java and eclipse IDE and second, because I
 * Run it 
 * Start playing with the arrows keys.
 * If the snake's head collides with his own body or with one of the 4 borders you lose. 
-* Then, just close it and re-open it (I will add a restart button possibly).
+* Then, just close the application and re-open it (I will add a restart button possibly).
 
 #### References:
 Bro Code - Java snake game 🐍: https://www.youtube.com/watch?v=bI6e6qjJ8JQ
