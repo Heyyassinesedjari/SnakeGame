@@ -1,5 +1,5 @@
 # Snake Game
-This is my First Java Project. <br/>
+This is my first Java project. <br/>
 It's a simple snake game using Abstract Window Toolkit (awt) and Java Swing to display it.<br/>
 I did this project first, to discover java and eclipse IDE and second, because I always wanted to see how simple games were made behind the scenes.<br/>
 
