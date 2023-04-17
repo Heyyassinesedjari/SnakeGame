@@ -5,6 +5,7 @@ I did this project first, to discover java and eclipse IDE and second, because I
 
 ## Requirements:
 * Java runtime installed
+* Windows Operating System
 
 ### How to play the game:
 
